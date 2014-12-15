@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"ma",
+				"max_counter"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"get",
+				"getTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SpecRunner.html",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/AscendingArray.js",
+			"settings":
+			{
+				"buffer_size": 706,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "describe(\"Ascending array unit test\", function() {\n	\n	it(\"solution should return random number\", function () {\n		\n		input = [2,2,2,2,1,2,-1,2,1,3]\n		result = [4,6,8]\n\n		expect(result).toContain(solution(input));\n	});\n}); ",
+			"file": "spec/AscendingArraySpec.js",
+			"file_size": 229,
+			"file_write_time": 130630522746076164,
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"File: Copy as Tag script"
+			],
+			[
+				"jasmin",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"jasmine",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"jasmi",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy as Tag script"
+			],
+			[
+				"cpoy",
+				"File: Copy as Tag script"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 70.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/jasmine/ascendingArray",
+		"/C/jasmine/ascendingArray/spec",
+		"/C/jasmine/ascendingArray/src"
+	],
+	"file_history":
+	[
+		"/C/jasmine/javascript-koans/KoansRunner.html",
+		"/C/jasmine/javascript-koans/koans/AboutExpects.js",
+		"/C/jasmine/javascript-koans/koans/AboutArrays.js",
+		"/C/jasmine/testing/spec/javascripts/testSpec.js",
+		"/C/jasmine/ascendingArray/src/AscendingArray.js",
+		"/C/jasmine/ascendingArray/spec/SpecHelper.js",
+		"/C/jasmine/javascript-koans/koans/AboutFunctions.js",
+		"/C/jasmine/jasmine-standalone-1.1.0/Lesson02/SpecRunner.html",
+		"/C/jasmine/jasmine-standalone-1.1.0/Lesson02/src/calculator.js",
+		"/C/jasmine/jasmine-standalone-1.1.0/Lesson02/spec/calculator_spec.js",
+		"/C/jasmine/jasmine-standalone-1.1.0/Lesson04/src/example.js",
+		"/C/jasmine/jasmine-standalone-1.1.0/Lesson04/spec/example_spec.js",
+		"/C/jasmine/jasmine-standalone-1.1.0/example/src/helloWorld.js",
+		"/C/jasmine/jasmine-standalone-1.1.0/example/spec/helloWorld_spec.js",
+		"/C/jasmine/jasmine-standalone-1.1.0/example/SpecRunner.html",
+		"/C/jasmine/jasmine-standalone-1.1.0/jasmine.sublime-project",
+		"/C/qunit2/first.html",
+		"/C/qunit2/second.html",
+		"/C/qunit2/basic.html",
+		"/C/qunit2/pjeske.html",
+		"/C/jasmine/project/jasmine/SpecRunner.html",
+		"/C/jasmine/jasmine1.3.1/SpecRunner.html",
+		"/C/Workspace/Ivona2/tihomir/zadatak11.py",
+		"/C/qunit/theFunction.js",
+		"/C/qunit/test.html",
+		"/C/qunit/test.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files/PostgreSQL/9.4/data/postgresql.conf",
+		"/C/tmp/sql/dump",
+		"/C/Downloads/sqldeveloper/configuration/bundles.info",
+		"/C/books/nginx/Nginx HTTP server code/Nginx init script for Debian-based distributions.txt",
+		"/C/Program Files/PostgreSQL/9.4/data/pg_ident.conf",
+		"/C/Program Files/PostgreSQL/9.3/data/postgresql.conf",
+		"/C/Program Files/PostgreSQL/9.4/share/tsearch_data/croatian-wordlist-checked-iso8859-2.txt",
+		"/C/Program Files/PostgreSQL/9.4/share/tsearch_data/croatian.hash",
+		"/C/Program Files/PostgreSQL/9.4/share/tsearch_data/hr_HR.dic",
+		"/C/Program Files/PostgreSQL/9.4/share/tsearch_data/hr_HR.aff",
+		"/C/qunit/bower_components/qunit/qunit/qunit.js",
+		"/C/Program Files/PostgreSQL/9.4/share/tsearch_data/hyph_hr.dic",
+		"/C/tmp/dell/dellstore2-normal-1.0/dellstore2-normal-1.0.sql",
+		"/C/tmp/Gaz_places_national.txt",
+		"/C/Program Files/PostgreSQL/9.4/share/tsearch_data/croatian-stopwords.txt",
+		"/C/Program Files/PostgreSQL/9.4/share/tsearch_data/std_words.txt",
+		"/C/csv/sub1.csv",
+		"/C/glassfish4/README.txt",
+		"/C/ebt.m3u",
+		"/C/books/algorithms/6 006 Fall 2011/Lecture06/lec06_code/README.txt",
+		"/C/eclipse/eclipse.ini",
+		"/C/books/postgresql/useful data/places_pg.sql",
+		"/C/Coursera/DB/new scripts/ReferentialIntegrity.sql",
+		"/C/Coursera/DB/dbclass-script-files/Triggers1.sql",
+		"/C/books/algorithms/imsmanifest.xml",
+		"/C/books/SQL/postgresql-script (sql-ex).sql",
+		"/C/Downloads/psql/postgresql-9.4beta3/src/tutorial/basics.source",
+		"/C/app/oracle12c/product/12.1.0/dbhome_1/NETWORK/ADMIN/SAMPLE/LISTENER.ORA",
+		"/C/app/oracle12c/product/12.1.0/dbhome_1/NETWORK/ADMIN/listener.ora",
+		"/C/Coursera/DB/dbclass-script-files/ReferentialIntegrity.sql",
+		"/C/Coursera/DB/new scripts/Triggers1.sql",
+		"/C/Coursera/DB/dbclass-script-files/Constraints.sql",
+		"/C/Program Files/Inkscape/share/keys/default.xml",
+		"/C/Downloads/db/spanish.stackexchange.com/PostHistory.xml",
+		"/C/Downloads/db/spanish.stackexchange.com/Badges.xml",
+		"/C/Program Files/PostgreSQL/9.3/share/extension/pgcrypto--1.0.sql",
+		"/C/books/algorithms/6 006 Fall 2011/lec02_code/docdist1.py",
+		"/C/books/algorithms/6-006-fall-2011/ReadMe.txt",
+		"/C/Ivona/Data/CSV/strucna_sprema.csv",
+		"/C/Ivona/Data/CSV/mjesto.csv",
+		"/C/Ivona/Data/CSV/program.csv",
+		"/C/Downloads/squirrelsqlfx-snapshot-20140914_2235/doc/changes.txt",
+		"/C/Users/User/git/django-selectable/example/core/models.py",
+		"/C/Users/User/git/django-selectable/docs/advanced.rst",
+		"/C/Users/User/git/django-selectable/docs/conf.py",
+		"/C/Users/User/git/django-selectable/example/core/views.py",
+		"/C/Users/User/git/django-selectable/example/core/lookups.py",
+		"/C/Users/User/git/django-selectable/example/core/forms.py",
+		"/C/Users/User/git/django-selectable/example/core/templates/base.html",
+		"/C/Users/User/git/django-selectable/example/core/templates/advanced.html",
+		"/C/Users/User/git/django-selectable/example/core/fixtures/initial_data.json",
+		"/C/Users/User/git/django-selectable/example/example/wsgi.py",
+		"/C/Users/User/git/django-selectable/example/example/urls.py",
+		"/C/Users/User/git/django-selectable/example/example/settings.py",
+		"/C/Ivona/Data/CSV/struka - program.csv",
+		"/C/Program Files/PostgreSQL/9.3/data/pg_hba.conf",
+		"/C/Workspace/ivona/ZavrsniRad_M/KlasifikacijaPodataka/templates/pocetna.html",
+		"/C/Workspace/ivona/ZavrsniRad_M/KlasifikacijaPodataka/forms.py",
+		"/C/tango/Cafe de los maestros subtitle/Miguel Kohan - Cafe de los maestros (2008).ENG.srt",
+		"/C/Iva/backup/IVA/Web.config",
+		"/C/Iva/backup/IVA/Default.aspx",
+		"/C/Iva/iva-is/IVA/Default.aspx.vb",
+		"/C/Iva/iva-is/IVA/Web.config",
+		"/C/Iva/iva-is/IVA/Default.aspx",
+		"/C/Ivona/Data/CSV/mat.csv",
+		"/C/Ivona/Data/CSV/Book1.csv",
+		"/C/Ivona/Data/CSV/mat_dos.csv",
+		"/C/tango/Cafe de los maestros subtitle/Miguel Kohan - Cafe de los maestros (2008).HR.srt",
+		"/C/Iva/clean/iva-is/IVA/Web.config",
+		"/C/Ivona/Data/CSV/struka - program 2.csv",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Javascript/JavaScript and JSON/Exercise Files/03-01/workingfolder/json/myscript.js",
+		"/C/Javascript/JavaScript and JSON/Exercise Files/02-02/json/index.html",
+		"/C/Javascript/JavaScript and JSON/Exercise Files/02-01/json/index.html",
+		"/C/Javascript/JavaScript and JSON/Exercise Files/01-04/json/index.html",
+		"/C/_pluralsight/JavaScript and JSON/0 - Introduction/2 - What you should know before watching this course/script.txt",
+		"/C/Ivona/Data/matični 2011_izmjena_4_CCCCC.csv",
+		"/C/Users/User/Downloads/VTC - MySQL 5 Development - Part 1/mysql5dev1/01/0106.txt",
+		"/C/Users/User/Downloads/VTC - MySQL 5 Development - Part 1/mysql5dev1/05/0501.txt",
+		"/C/Program Files/MySQL/MySQL Server 5.6/my.cnf",
+		"/C/Users/All Users/MySQL/MySQL Server 5.6/my.ini",
+		"/C/books/html5/css3 qs/CSS3VQS-CODE-6ed/book-code/Code_10/10_01.html",
+		"/C/books/python/classification/assignment1/all_sentiment_shuffled.txt",
+		"/C/Users/User/Desktop/ivona/konzola_knn.txt",
+		"/C/Users/User/Downloads/Pozitia.Copilului.2013.720p.HDTV.x264-DRACULA/Pozitia.Copilului.2013.720p.HDTV.x264-DRACULA.srt",
+		"/C/Ivona/Data/matični 2012.csv",
+		"/C/Ivona/Data/maticni_2012.csv",
+		"/C/Downloads/cmder/config/aliases",
+		"/C/Ivona/Data/matični 2011_izmjena_4_N_CVS.csv",
+		"/C/Python33/Lib/site-packages/sklearn/feature_extraction/text.py",
+		"/C/Users/User/Desktop/baza/ivona_rad.sql",
+		"/C/Users/User/git/scikit-learn/doc/tutorial/basic/tutorial.rst",
+		"/C/Users/User/filename.pkl_01.npy",
+		"/C/Users/User/Downloads/VTC - MySQL 5 Development - Part 2/mysql5dev2/04/04exercises.txt",
+		"/C/_pluralsight/Pluralsight - Bootstrap 3/Exercise Files/m4/before/Index.html",
+		"/C/Users/User/Downloads/Pluralsight - Groovy Fundamentals/Exercise Files/3-groovy-fundamentals-m3-exercise-files/demo/data/fells_loop.gpx",
+		"/C/_pluralsight/Pluralsight - Bootstrap 3/Exercise Files/m2/before/Index.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"	\n",
+			"      \n",
+			"simple",
+			"drop table",
+			"cities",
+			"insert into college",
+			"pg_hmac",
+			"line",
+			"away",
+			"far",
+			"data",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"drop table if exists"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SpecRunner.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/AscendingArray.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								706
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "spec/AscendingArraySpec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Jasmine JS/syntax/Jasmine.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ascending.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
